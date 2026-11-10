@@ -4,19 +4,19 @@ A collection of custom animated pets.
 
 ## Meat Boy
 
-![Meat Boy preview](pets/meat-boy/preview.png)
+![Meat Boy preview](pets/meat-boy/preview.gif)
 
 [Download Meat Boy ZIP](https://github.com/thebreenis/codex-pets/releases/download/meat-boy-v1.0.0/meat-boy.zip) · [Release details](https://github.com/thebreenis/codex-pets/releases/tag/meat-boy-v1.0.0) · [Source files](pets/meat-boy/)
 
 ## Classic Doomguy
 
-![Classic Doomguy preview](pets/classic-doomguy/preview.png)
+![Classic Doomguy preview](pets/classic-doomguy/preview.gif)
 
 [Download Classic Doomguy ZIP](https://github.com/thebreenis/codex-pets/releases/download/classic-doomguy-v1.0.0/classic-doomguy.zip) · [Release details](https://github.com/thebreenis/codex-pets/releases/tag/classic-doomguy-v1.0.0) · [Source files](pets/classic-doomguy/)
 
 ## Adding pets
 
-Store each pet in pets/<pet-name>/ with pet.json, spritesheet.webp, and a static preview.png. Add a preview and download link to this README.
+Store each pet in pets/<pet-name>/ with pet.json, spritesheet.webp, and an animated preview.gif. Add a looping animation preview and download link to this README.
 
 Publish each pet ZIP as an asset on its own GitHub Release, using a pet-specific tag such as meat-boy-v1.0.0. Increment that pet’s version for future updates.
 
