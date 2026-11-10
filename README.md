@@ -4,13 +4,13 @@ A collection of custom animated pets.
 
 ## Meat Boy
 
-![Meat Boy preview](pets/meat-boy/preview.gif)
+![Meat Boy preview](pets/meat-boy/preview-transparent.gif)
 
 [Download Meat Boy ZIP](https://github.com/thebreenis/codex-pets/releases/download/meat-boy-v1.0.0/meat-boy.zip) · [Release details](https://github.com/thebreenis/codex-pets/releases/tag/meat-boy-v1.0.0) · [Source files](pets/meat-boy/)
 
 ## Classic Doomguy
 
-![Classic Doomguy preview](pets/classic-doomguy/preview.gif)
+![Classic Doomguy preview](pets/classic-doomguy/preview-transparent.gif)
 
 [Download Classic Doomguy ZIP](https://github.com/thebreenis/codex-pets/releases/download/classic-doomguy-v1.0.0/classic-doomguy.zip) · [Release details](https://github.com/thebreenis/codex-pets/releases/tag/classic-doomguy-v1.0.0) · [Source files](pets/classic-doomguy/)
 
